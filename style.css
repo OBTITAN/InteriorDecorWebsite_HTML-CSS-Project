@@ -1,19 +1,34 @@
 body {
-    font-family: Roboto serif;
+    font-family: Roboto san-serif;
     padding: 0px;
 }
 
-.header {
+.header,
+.section1 {
     background-color: #1F2937;
     display: flex;
-    color: white;
     padding: 10px;
     align-items: center;
 }
 
+.header li,
+.section1 .sectionBody  {
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+
+.signUpButton,
+.section4,
+.lowerSignUpButton {
+    background-color: #3882F6;
+    color: #FFFFFF;
+}
+
+
 .headerLogo {
     font-size: 24px;
-    color: #E5E7EB;
+    color: #F9FAF8;
 }
 
 ul {
@@ -22,3 +37,11 @@ ul {
     display: flex;
     gap: 15px;
 }
+
+.section1 .headingText {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8
+}
+
+
