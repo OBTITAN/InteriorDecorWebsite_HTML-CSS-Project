@@ -8,8 +8,9 @@ body {
 .section1 {
     background-color: #1F2937;
     display: flex;
-    padding: 10px;
+    padding: 0px 160px 100px;
     align-items: center;
+    gap: 40px
 }
 
 .header li,
@@ -39,12 +40,29 @@ ul {
     gap: 15px;
 }
 
+.section1 .sectionBody {
+    width: 750px;
+}
+
 .section1 .headingText {
     font-size: 48px;
     font-weight: 900;
-    color: #F9FAF8
+    color: #F9FAF8;
+    margin-bottom: 0px;
 }
 
+.section1 #imagePlaceholder {
+    background-color: white;
+    height: 250px;
+    width: 700px;
+}
+
+.section1 .signUpButton{
+    font-weight: bold;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+}
 .section2 {
     display: flex;
     flex-direction: column;
