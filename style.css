@@ -27,6 +27,10 @@ body {
     color: #FFFFFF;
 }
 
+img {
+    border-radius: 25px;;
+}
+
 
 .headerLogo {
     font-size: 24px;
@@ -53,6 +57,7 @@ ul {
 
 .section1 #imagePlaceholder {
     background-color: white;
+    border-radius: 25px;
     height: 1000px;
     width: 900px;
     margin-left: auto;
@@ -85,16 +90,18 @@ ul {
 }
 
 .section2 .image2 {
-    border: 4px solid #3882F6;
-    border-radius: 25px;
-    height: 180px;
-    width: 180px;
+    height: 400px;
+    width: 400px;
     margin-bottom: 10px;
+}
 
+.section2 img {
+    border-radius: 25px;
 }
 
 .section2 .sectionData {
-    width: 180px;
+    margin-top: 10px;
+    width: 400px;
     text-align: center;
 }
 
