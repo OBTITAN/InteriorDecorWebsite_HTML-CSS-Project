@@ -86,7 +86,8 @@ ul {
 
 .section2 .sectionBody {
     display: flex;
-    gap: 70px;
+    gap: 100px;
+
 }
 
 .section2 .image2 {
