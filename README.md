@@ -9,3 +9,5 @@ Image sources
 (D) Photo by Vecislavas Popa: https://www.pexels.com/photo/round-brown-wooden-table-with-chairs-inside-room-1668860/
 (E) Photo by Pascal 📷: https://www.pexels.com/photo/modern-coffee-brewing-setup-with-accessories-32673615/
 (F) Photo by Sóc Năng Động: https://www.pexels.com/photo/colorful-framed-art-collection-on-wall-32702192/
+
+Company and CEO mention here are entirely fictuous for the purpose of the project
