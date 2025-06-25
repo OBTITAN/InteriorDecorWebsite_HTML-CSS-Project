@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto san-serif;
+    font-family: Roboto, 'Open Sans', Ubuntu;
     padding: 0px;
     margin: 0px;
 }
@@ -53,8 +53,9 @@ ul {
 
 .section1 #imagePlaceholder {
     background-color: white;
-    height: 250px;
-    width: 700px;
+    height: 1000px;
+    width: 900px;
+    margin-left: auto;
 }
 
 .section1 .signUpButton{
